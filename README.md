@@ -1,2 +1,0 @@
-# gititi
-monosilabas
